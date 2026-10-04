@@ -1,6 +1,6 @@
 # Mindfull
 
-A mental wellness app designed to promote mindfulness,
+A mental wellness app designed prototype to promote mindfulness,
 self-awareness, and healthy daily habits.
 
 ## Figma Design
